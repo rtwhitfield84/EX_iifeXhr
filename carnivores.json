@@ -1,0 +1,24 @@
+{
+  "carnivores": [
+    {
+      "name": "Lion",
+      "weight": "300lbs",
+      "favorite food": "meat"
+    },
+    {
+      "name": "Tiger",
+     "weight": "300lbs",
+      "favorite food": "meat"
+    },
+    {
+      "name": "Bear",
+      "weight": "800lbs",
+      "favorite food": "meat"
+    },
+    {
+      "name": "Oh My",
+      "weight": "infinite",
+      "favorite food": "You"
+    }
+  ]
+}

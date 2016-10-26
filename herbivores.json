@@ -1,0 +1,24 @@
+{
+  "herbivores": [
+    {
+      "name": "Sheep",
+      "weight": "40lbs",
+      "favorite food": "grass"
+    },
+    {
+      "name": "Cow",
+     "weight": "800lbs",
+      "favorite food": "grass"
+    },
+    {
+      "name": "Deer",
+      "weight": "100lbs",
+      "favorite food": "grass"
+    },
+    {
+      "name": "Oh Myvegan ",
+      "weight": "infinite",
+      "favorite food": "grass"
+    }
+  ]
+}
